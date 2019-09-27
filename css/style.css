@@ -1,0 +1,109 @@
+main{
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'PT Sans', sans-serif;
+}
+#title{
+    width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #b4b4b4;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    letter-spacing: 5px;
+    color: #0ec8cb;
+    text-transform: uppercase;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+#title p{
+    padding: 0 44px 105px 44px;
+    margin: 0;
+    color: #b4b4b4;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.iconbox{
+    display: inline-block;
+    vertical-align: top;
+    width: 230px;
+    height: 420px;
+    background-color: #f7f7f7;
+    text-align: center;
+    font-size: 0 !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+.iconbox p{
+    font-size: 14px;
+}
+.iconbox:hover{
+    color: #fff;
+    background: #0ec8cb;
+}
+.iconbox:hover .icon{
+    background-position-x: 100% !important;
+}
+
+#box1 div{
+    width: 64px;
+    height: 66px;
+    background: url(Anchor.png);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+#box2 div{
+    width: 65px;
+    height: 64px;
+    background: url(Diamond.png);
+    background-position-x: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+#box3 div{
+    width: 66px;
+    height: 49px;
+    background: url(Eyeglasses.png);
+    background-position-x: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+#box4 div{
+    width: 64px;
+    height: 53px;
+    background: url(Monitor.png);
+    background-position-x: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    margin-bottom: 45px;
+}
+.iconbox-title{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px !important;
+    padding: 10px;
+}
+  
